@@ -1,0 +1,28 @@
+
+body
+{
+  background-color: #B6E2A1;
+}
+h1 {
+  coror: #F49D1A;
+}
+h3 {
+  color: #F49D1A;
+}
+th {
+  color: #F49D1A;
+}
+hr
+{
+  background-color: none;
+  border-style: none;
+  border-top: dotted;
+  height: 0px;
+  width: 10%;
+  border-color: brown;
+  border-width: 3px;
+}
+img
+{
+  height: 250px;
+}
